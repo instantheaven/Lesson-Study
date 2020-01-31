@@ -1,6 +1,19 @@
 public class Hero{
-	String name;
-	int hp;
+	String name;	//フィールド
+	int hp;			//フィールド
+	
+	//コンストラクタ
+	public Hero(){
+	}
+	public Hero(String name){
+		this.name=name;
+	}
+	public Hero(String name,int hp){
+		this.name=name;
+		this.hp=hp;
+	}
+
+	//メソッド
 	public void sleep(){
 		this.hp=100;
 		System.out.println(this.name+"は、眠って回復した！");
