@@ -1,3 +1,9 @@
+//練習問題 6 - 7
+//ある数が素数かどうかを判定するメソッドを作成しなさい。
+
+//このメソッドを使用して 10000 以上 10100 未満のi
+//素数をすべて表示するプログラムを作成しなさい。
+
 import java.util.*;
 public class Lesson6_7{
 	public static void main(String[] args){
