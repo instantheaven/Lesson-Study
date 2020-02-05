@@ -5,8 +5,10 @@ public class Hero{
 	
 	//コンストラクタ
 	public Hero(){
+		this.hp=100;
 	}
 	public Hero(String name){
+		this();//必ずコンストラクタの1行目に書く必要がある
 		this.name=name;
 	}
 	public Hero(String name,int hp){
@@ -33,6 +35,10 @@ public class Hero{
 		System.out.println(this.name+"は、逃げ出した！");
 		System.out.println("GAMEOVER");
 		System.out.println("最終HPは"+this.hp+"でした");
+	}
+	public void equip(Sword sw){
+		System.out.println(sw.name+"を装備した！");
+		this.sword=sw;
 	}
 	public void attack(Matango m){
 		System.out.println(this.name+"はマタンゴ"+m.suffix+"を"+this.sword.name+"で攻撃した！");
