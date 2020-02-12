@@ -59,26 +59,26 @@
 >[実行例1]なつき度が3以上の場合  
 >街中のねこに好かれ、にゃんこさんにねこが集まってきた。  
 >しあわせポイント+10P  
->                    +++++TrueEnd+++++  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+++++TrueEnd+++++  
  
 >[実行例2]「ごはんをあげる」の選択回数が3以上の場合  
 >街中のねこはごはんを求め、にゃんこさんはねこに囲まれた。  
 >空腹ポイント+150P  
->                    \*\*\*\*\*GourmetEnd\*\*\*\*\*  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*GourmetEnd\*\*\*\*\*  
  
 >[実行例3]「威嚇する」の選択回数が3以上の場合  
 >街中のねこが集まり、にゃんこさんにねこが復讐に来た。  
 >ねこヘイトポイント+100P  
->                    \*\*\*\*\*RevengeEnd\*\*\*\*\*  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*RevengeEnd\*\*\*\*\*  
  
 >[実行例4]「素通り」の選択回数が3以上の場合  
 >特ににゃんこさんは何事もなく帰宅した。  
 >平穏ポイント+2P  
->                    \*\*\*\*\*ThroughEnd\*\*\*\*\*  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*ThroughEnd\*\*\*\*\*  
  
 >[実行例5]  
 >街の中でにゃんこさんはいろんなねこを見かけた。  
 >普通ポイント+1P  
-                    -----NormalEnd-----  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-----NormalEnd-----  
 					 
 
